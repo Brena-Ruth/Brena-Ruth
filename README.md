@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👩‍💻 Brena | Engenheira de Produção em transição para a tecnologia
 
-<!--
-**Brena-Ruth/Brena-Ruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Eu sou a Brena, formada em Engenharia de Produção e atualmente estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por **Front-end**. Meu objetivo é criar sites que ofereçam experiências bonitas, funcionais e acessíveis para os usuários.
 
-Here are some ideas to get you started:
+💡 Estou em transição de carreira, encaro cada projeto como uma oportunidade de crescer, aprender e colocar em prática o que venho estudando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias que estou estudando:
+- HTML
+- CSS  
+- JavaScript  
+- Git & GitHub 
+- MySQL (aprendendo os fundamentos de bancos de dados relacionais)
+
+---
+
+### 📚 Projetos  
+*(Meu portfólio está em construção! Em breve, estarei mostrando os projetos que estou criando com dedicação 💙)*
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brena-ruth-311998131)  
+📧 brena.ssu@gmail.com
